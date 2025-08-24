@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: 02900b0154f61434b80ef8e994198f45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8950227931659373043
+    second: Latisha 2-Sheet_0
+  - first:
+      213: -6501869001292686657
+    second: Latisha 2-Sheet_1
+  - first:
+      213: -7193410919673237849
+    second: Latisha 2-Sheet_2
+  - first:
+      213: 6382215780860433505
+    second: Latisha 2-Sheet_3
+  - first:
+      213: -8817641339370453846
+    second: Latisha 2-Sheet_4
+  - first:
+      213: 8225151201906142519
+    second: Latisha 2-Sheet_5
+  - first:
+      213: 6015582003197740470
+    second: Latisha 2-Sheet_6
+  - first:
+      213: -6970202003093124239
+    second: Latisha 2-Sheet_7
+  - first:
+      213: 9172738355521053377
+    second: Latisha 2-Sheet_8
+  - first:
+      213: 6616359243993944149
+    second: Latisha 2-Sheet_9
+  - first:
+      213: -4431779986906470827
+    second: Latisha 2-Sheet_10
+  - first:
+      213: 2105620869372978038
+    second: Latisha 2-Sheet_11
+  - first:
+      213: 6643682926407429379
+    second: Latisha 2-Sheet_12
+  - first:
+      213: -9014266158631174840
+    second: Latisha 2-Sheet_13
+  - first:
+      213: -5155124001058204508
+    second: Latisha 2-Sheet_14
+  - first:
+      213: 5884130609056336344
+    second: Latisha 2-Sheet_15
+  - first:
+      213: -153604402178619644
+    second: Latisha 2-Sheet_16
+  - first:
+      213: 3810985403931969977
+    second: Latisha 2-Sheet_17
+  - first:
+      213: -7123010677083583527
+    second: Latisha 2-Sheet_18
+  - first:
+      213: -1681694102837467573
+    second: Latisha 2-Sheet_19
+  - first:
+      213: -4122316556018924196
+    second: Latisha 2-Sheet_20
+  - first:
+      213: -2880515664044548635
+    second: Latisha 2-Sheet_21
+  - first:
+      213: -5696556454813689000
+    second: Latisha 2-Sheet_22
+  - first:
+      213: -3239832148950883734
+    second: Latisha 2-Sheet_23
+  - first:
+      213: -3178909818802850087
+    second: Latisha 2-Sheet_24
+  - first:
+      213: -1933732550611545942
+    second: Latisha 2-Sheet_25
+  - first:
+      213: 7320818843280220260
+    second: Latisha 2-Sheet_26
+  - first:
+      213: -1449056483029539140
+    second: Latisha 2-Sheet_27
+  - first:
+      213: 8224414429420009964
+    second: Latisha 2-Sheet_28
+  - first:
+      213: 4946689998928511127
+    second: Latisha 2-Sheet_29
+  - first:
+      213: 338025409538920960
+    second: Latisha 2-Sheet_30
+  - first:
+      213: -8162386596238978818
+    second: Latisha 2-Sheet_31
+  - first:
+      213: 8970117001299397701
+    second: Latisha 2-Sheet_32
+  - first:
+      213: 1784281640634344439
+    second: Latisha 2-Sheet_33
+  - first:
+      213: -7540522990548356900
+    second: Latisha 2-Sheet_34
+  - first:
+      213: -5880007962041040740
+    second: Latisha 2-Sheet_35
+  - first:
+      213: 8856198134261701859
+    second: Latisha 2-Sheet_36
+  - first:
+      213: -2131668064092613550
+    second: Latisha 2-Sheet_37
+  - first:
+      213: -7966920781192562790
+    second: Latisha 2-Sheet_38
+  - first:
+      213: -9064155872749297154
+    second: Latisha 2-Sheet_39
+  - first:
+      213: 7660853111443986938
+    second: Latisha 2-Sheet_40
+  - first:
+      213: -5323727937582647249
+    second: Latisha 2-Sheet_41
+  - first:
+      213: -2406082771276727826
+    second: Latisha 2-Sheet_42
+  - first:
+      213: -9030518238518536159
+    second: Latisha 2-Sheet_43
+  - first:
+      213: -8611825351293372701
+    second: Latisha 2-Sheet_44
+  - first:
+      213: -1442717548012067147
+    second: Latisha 2-Sheet_45
+  - first:
+      213: 2815040237450382655
+    second: Latisha 2-Sheet_46
+  - first:
+      213: 6832972493614676540
+    second: Latisha 2-Sheet_47
+  - first:
+      213: 5013601223155277479
+    second: Latisha 2-Sheet_48
+  - first:
+      213: -9219882644631151696
+    second: Latisha 2-Sheet_49
+  - first:
+      213: -6620813809641253420
+    second: Latisha 2-Sheet_50
+  - first:
+      213: 1658355418088340777
+    second: Latisha 2-Sheet_51
+  - first:
+      213: 1295694585284085825
+    second: Latisha 2-Sheet_52
+  - first:
+      213: 8948594223225065544
+    second: Latisha 2-Sheet_53
+  - first:
+      213: 3324474571025697930
+    second: Latisha 2-Sheet_54
+  - first:
+      213: 3548255698033099432
+    second: Latisha 2-Sheet_55
+  - first:
+      213: -4840097170157452906
+    second: Latisha 2-Sheet_56
+  - first:
+      213: -1715418404714585086
+    second: Latisha 2-Sheet_57
+  - first:
+      213: -418764027635828832
+    second: Latisha 2-Sheet_58
+  - first:
+      213: 2881225354474937575
+    second: Latisha 2-Sheet_59
+  - first:
+      213: -5212943187407177213
+    second: Latisha 2-Sheet_60
+  - first:
+      213: -8492636683792891300
+    second: Latisha 2-Sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9065d22e8953c70800000000000000
+      internalID: 8950227931659373043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba53d97798b4c5a0800000000000000
+      internalID: -6501869001292686657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aee57181eedb2c90800000000000000
+      internalID: -7193410919673237849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641412307f229850800000000000000
+      internalID: 6382215780860433505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa446027be171a580800000000000000
+      internalID: -8817641339370453846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2e7d707b952270800000000000000
+      internalID: 8225151201906142519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b585d1c5f3ab7350800000000000000
+      internalID: 6015582003197740470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b0be8353ed44f90800000000000000
+      internalID: -6970202003093124239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2ee626fec1c4f70800000000000000
+      internalID: 9172738355521053377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55091ac6da702db50800000000000000
+      internalID: 6616359243993944149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55621cd15972f72c0800000000000000
+      internalID: -4431779986906470827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67320ae460ba83d10800000000000000
+      internalID: 2105620869372978038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 3
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da7dcfb6a133c50800000000000000
+      internalID: 6643682926407429379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db6f730b4e6e280800000000000000
+      internalID: -9014266158631174840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d5d7b8025578b0800000000000000
+      internalID: -5155124001058204508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 2
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d94ecc0d91a8a150800000000000000
+      internalID: 5884130609056336344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407053c2c994eddf0800000000000000
+      internalID: -153604402178619644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 2
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9409d880753e430800000000000000
+      internalID: 3810985403931969977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db4e1d478bf52d90800000000000000
+      internalID: -7123010677083583527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 2
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e08b9f1c69a8e0800000000000000
+      internalID: -1681694102837467573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c7caeee69ac6c0800000000000000
+      internalID: -4122316556018924196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 2
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1da2e34a5608d0800000000000000
+      internalID: -2880515664044548635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 2
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b1fd30614c1f0b0800000000000000
+      internalID: -5696556454813689000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 2
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6264ed63ddc903d0800000000000000
+      internalID: -3239832148950883734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 3
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63145cc5e32e3d0800000000000000
+      internalID: -3178909818802850087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 2
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa050369d700a25e0800000000000000
+      internalID: -1933732550611545942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 2
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46024ba53f5c89560800000000000000
+      internalID: 7320818843280220260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 2
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb62c8d5ecae3ebe0800000000000000
+      internalID: -1449056483029539140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce93d27495df22270800000000000000
+      internalID: 8224414429420009964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 2
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7908c18685c26a440800000000000000
+      internalID: 4946689998928511127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0029f9ca158e0b400800000000000000
+      internalID: 338025409538920960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 4
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef014cb03a069be80800000000000000
+      internalID: -8162386596238978818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 3
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c842013e14c7c70800000000000000
+      internalID: 8970117001299397701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 2
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e249d2ba03c810800000000000000
+      internalID: 1784281640634344439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 2
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f2bf9a4eaa5790800000000000000
+      internalID: -7540522990548356900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 2
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90431289e3066ea0800000000000000
+      internalID: -5880007962041040740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 2
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec552de74987ea70800000000000000
+      internalID: 8856198134261701859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 2
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25417b4903bca62e0800000000000000
+      internalID: -2131668064092613550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 4
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f65392cfcf6190800000000000000
+      internalID: -7966920781192562790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 5028
+        y: 2
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e108f146a53280800000000000000
+      internalID: -9064155872749297154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 2
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af99010e051d05a60800000000000000
+      internalID: 7660853111443986938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 5291
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f283097a5a15e16b0800000000000000
+      internalID: -5323727937582647249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 2
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9fcdda770eb9ed0800000000000000
+      internalID: -2406082771276727826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 5553
+        y: 2
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1289a6ff1872da280800000000000000
+      internalID: -9030518238518536159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6747c6876ac7880800000000000000
+      internalID: -8611825351293372701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5817
+        y: 2
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6a48fa8007afbe0800000000000000
+      internalID: -1442717548012067147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 2
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d49a56e28011720800000000000000
+      internalID: 2815040237450382655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 2
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3afae1c74893de50800000000000000
+      internalID: 6832972493614676540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 6198
+        y: 2
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae52afcfb3e39540800000000000000
+      internalID: 5013601223155277479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6326
+        y: 2
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb98ff65956c0080800000000000000
+      internalID: -9219882644631151696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 6445
+        y: 2
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d515503be42e14a0800000000000000
+      internalID: -6620813809641253420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6573
+        y: 2
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dff766779a30710800000000000000
+      internalID: 1658355418088340777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 6690
+        y: 2
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14841454c5b3bf110800000000000000
+      internalID: 1295694585284085825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 6818
+        y: 2
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840517ac80bcf2c70800000000000000
+      internalID: 8948594223225065544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6945
+        y: 2
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4ece2208e22e20800000000000000
+      internalID: 3324474571025697930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 2
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c48502cfed3130800000000000000
+      internalID: 3548255698033099432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7213
+        y: 2
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914466844584dcb0800000000000000
+      internalID: -4840097170157452906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 2
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e1d1bc0c9138e0800000000000000
+      internalID: -1715418404714585086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 7461
+        y: 14
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7fd08e550403af0800000000000000
+      internalID: -418764027635828832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 14
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecd35bc13b2cf720800000000000000
+      internalID: 2881225354474937575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 2
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a7d485ac7e7a7b0800000000000000
+      internalID: -5212943187407177213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latisha 2-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 7842
+        y: 0
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52c2189ee7142a80800000000000000
+      internalID: -8492636683792891300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
